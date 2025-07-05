@@ -1,1 +1,1 @@
-# .github
+# This is a private organisation
